@@ -64,7 +64,7 @@ public boolean addPerson() {
     }
 }
 
- // updatePersonlDetails
+ // updatePersonalDetails
  public boolean updatePersonalDetails(String newID, String newFirstName, String newLastName, String newAddress, String newBirthday) {
     // Validate new birthday format
     LocalDate newDob;
